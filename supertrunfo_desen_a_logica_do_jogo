@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main(){
-    printf("Super Trunfo em c: Desenvolvendo a Lógica do Jogo!\n");
-    printf("Novo commit\n");
-
-}
